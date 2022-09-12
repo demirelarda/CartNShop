@@ -44,7 +44,7 @@
 
 ## Build
 * Clone this repository.
-* Get you own `google-services.json` file from Firebase.
+* Get your own `google-services.json` file from Firebase.
 * Put it into Project/app. And run the app.
 
 ## Release v1.0.0(Download APK File)
