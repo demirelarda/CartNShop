@@ -39,3 +39,9 @@
 
 ### Orders
 ![dbs_orders](https://user-images.githubusercontent.com/93993257/189740793-18101102-f3ed-4ff2-93b4-2b538832e611.PNG)
+
+
+## Build
+* Clone this repository.
+* Get you own `google-services.json` file from Firebase.
+* Put it into Project/app. And run the app.
