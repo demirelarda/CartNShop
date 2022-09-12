@@ -46,6 +46,6 @@
 * Get you own `google-services.json` file from Firebase.
 * Put it into Project/app. And run the app.
 
-## Release v1.0.0
-https://github.com/demirelarda/CartNShop/releases/tag/v1.0.0
+## Release v1.0.0(Download APK File)
+[https://github.com/demirelarda/CartNShop/releases/tag/v1.0.0](https://github.com/demirelarda/CartNShop/releases/download/v1.0.0/CartNShopV1.0.apk)
 
