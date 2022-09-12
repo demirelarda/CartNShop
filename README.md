@@ -20,3 +20,22 @@
 * Used Firebase Authentication for login/register systems.
 * Used Firestore for database system.
 * Used Firebase Storage for storage.
+
+## Database Structure
+### Users
+![dbs_users](https://user-images.githubusercontent.com/93993257/189739553-a7155485-811c-4390-a85d-9ba5e7dce7ec.PNG)
+
+### Products
+![dbs_products](https://user-images.githubusercontent.com/93993257/189739956-08e76308-cfa9-498d-beb2-391486a28bae.PNG)
+
+### Cart Items(Products that user added them to him/her cart)
+![dbs_cartItems](https://user-images.githubusercontent.com/93993257/189740119-3b544434-ba6e-4856-9365-a2bdce749254.PNG)
+
+### User Addresses
+![dbs_addresses](https://user-images.githubusercontent.com/93993257/189740265-9976f1a1-608e-4a39-8b5b-6e189204ccc5.PNG)
+
+### Sold Products
+![dbs_soldProducts](https://user-images.githubusercontent.com/93993257/189740407-b606a000-92cf-4443-b237-80089b6668e1.PNG)
+
+### Orders
+![dbs_orders](https://user-images.githubusercontent.com/93993257/189740793-18101102-f3ed-4ff2-93b4-2b538832e611.PNG)
