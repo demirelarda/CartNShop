@@ -3,7 +3,7 @@
 ## Description
 * This is an e-commerce(shopping) app made with Kotlin and Firebase.
 * You can buy and sell products easily.
-* Note: You can see the build information and release apk file in the bottom of this file.
+* Note: You can see the [build information and release apk file](https://github.com/demirelarda/CartNShop/blob/master/README.md#release-v100download-apk-file) in the bottom of this file.
 
 ## Key Features
 * App includes all the necessary features that a modern shopping app needs to has.
