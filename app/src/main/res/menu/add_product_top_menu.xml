@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/add_product"
+        android:icon="@drawable/ic_baseline_add_circle_24"
+        android:title= "@string/add_product"
+        app:showAsAction="always">
+    </item>
+
+    <item
+        android:id="@+id/sold_products"
+        android:icon="@drawable/ic_vector_sold_products"
+        app:showAsAction="always"
+        android:title="Sold Products">
+    </item>
+
+
+</menu>
