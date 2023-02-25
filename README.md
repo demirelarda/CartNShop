@@ -30,7 +30,7 @@
 ### Products
 ![dbs_products](https://user-images.githubusercontent.com/93993257/189739956-08e76308-cfa9-498d-beb2-391486a28bae.PNG)
 
-### Cart Items(Products that user added them to him/her cart)
+### In-Cart Items
 ![dbs_cartItems](https://user-images.githubusercontent.com/93993257/189740119-3b544434-ba6e-4856-9365-a2bdce749254.PNG)
 
 ### User Addresses
